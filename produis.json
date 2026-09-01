@@ -1,0 +1,22 @@
+[
+  {
+    "id": "primus_72",
+    "designation": "Primus 72cl",
+    "prix_casier": 38000
+  },
+  {
+    "id": "mutzig_65",
+    "designation": "Mutzig 65cl",
+    "prix_casier": 40000
+  },
+  {
+    "id": "legend_33",
+    "designation": "Legend 33cl",
+    "prix_casier": 35000
+  },
+  {
+    "id": "fayrouz_33",
+    "designation": "Fayrouz 33cl",
+    "prix_casier": 30000
+  }
+]
