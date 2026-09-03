@@ -1,13 +1,13 @@
 [
   { "id": "primus_72", "designation": "Primus 72 cl", "prix_casier": 38000 },
-  { "id": "primus_50", "designation": "Primus 50 cl", "prix_casier": 46000 },
+  { "id": "primus_50", "designation": "Primus 50 cl", "prix_casier": 46700 },
   { "id": "turbo_72", "designation": "Turbo 72 cl", "prix_casier": 40000 },
   { "id": "turbo_50", "designation": "Turbo 50 cl", "prix_casier": 50000 },
   { "id": "mutzig_65", "designation": "Mutzig 65 cl", "prix_casier": 40000 },
   { "id": "super_boock_65", "designation": "Super Bock 65 cl", "prix_casier": 40000 },
   { "id": "mutzig_33", "designation": "Mutzig 33 cl", "prix_casier": 46000 },
   { "id": "legende_33", "designation": "Legende 33 cl", "prix_casier": 46000 },
-  { "id": "energy_malt", "designation": "Energy malt", "prix_casier": 30000 },
-  { "id": "mtz_class", "designation": "Mtz class", "prix_casier": 46700 },
-  { "id": "mtz_class_50", "designation": "Mtz class 50 cl", "prix_casier": 46000 }
+  { "id": "energy_malt", "designation": "Energy malt", "prix_casier": 36000 },
+  { "id": "mtz_class", "designation": "Mtz class", "prix_casier": 46000 },
+  { "id": "mtz_class_50", "designation": "Mtz class 50 cl", "prix_casier": 46700 }
 ]
